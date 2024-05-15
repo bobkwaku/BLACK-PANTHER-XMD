@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "Ibrahim Adams",
+  "AUTHOR": "Sarps Series",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": { 
@@ -11,7 +11,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },    
       "global": {     
-          "botName": "blackpanther",
+          "botName": "SARPSMD",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir", 
           "pic1": "https://i.imgur.com/NpA3ZsJ.jpeg",
@@ -24,9 +24,9 @@
            "greet" : "Sir",
          "dotbody" : "I'm Alive.", 
           "promote": "Admin Role Given to my Darling",
-          "pmallow": "*Hii,This is Ibrahim Tech Info*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmallow": "*Hi This is Sarps*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
           "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by Secktor_",
-          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo\n\n  *Powered by IbrahimTechInfo*",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/HKbMg8oSTxhGyfjwpNFPOU\n\n  *Powered by IbrahimTechInfo*",
           "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by IbrahimTechInfo", 
           "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Ibrahim_",
           "demote": "Uhh,Admin Role Taken back",
@@ -34,8 +34,8 @@
           "session": "\n*This is your session.IbrahimTech.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Panther*",
           "mention": " Please mention any user Sir",
           "title": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ",
-          "footer": "sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/IbrahimTechInfo",
-          "by": "Made by: *IbrahimTechInfo*",
+          "footer": "https://chat.whatsapp.com/HKbMg8oSTxhGyfjwpNFPOU",
+          "by": "Made by: *Sarps Series*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
